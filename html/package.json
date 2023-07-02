@@ -1,0 +1,20 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "myvsitec student login",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm ci test"
+  },
+  "keywords": [
+    "veltlogin"
+  ],
+  "author": "MyVSite",
+  "license": "ISC",
+  "dependencies": {
+    "ci": "^2.2.0"
+  }
+}

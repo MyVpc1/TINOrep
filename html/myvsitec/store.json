@@ -1,0 +1,18 @@
+{
+  "name": "VELT Co", // unique name (check if it has been used already in the file)
+  "icon": "https://speakpel.webs.com/images%20(1).jpeg", // logo image, preferrably 1:1 and less than 128px of width
+  "type": "Social Learning Network", // Social Student or faceapp
+  "data": {
+    "type": "IFrame", // type currently supports IFrame only
+    "url": "https://speakpel.webs.com", // url of the app and make sure they accept Iframe
+    "gallery": [
+      // three or more images for gallery view in store app
+      "https://mediaprocessor.websimages.com/thumb/250/https://memberfiles.freewebs.com/21/86/69268621/photos/undefined/SEMINAR%20PRESENTATION.jpg",
+      "https://mediaprocessor.websimages.com/thumb/250/https://memberfiles.freewebs.com/21/86/69268621/photos/undefined/SMALL%20TALK%20PLANING.png",
+      "https://mediaprocessor.websimages.com//https://speakpel.webs.com/webstore/How%20do%20online%20classes%20work%201-1.jpg",
+    ],
+    "desc": "A Different Aproach to Teaching & Learning a Second Language", // description for store app
+    "feat": "Social service in exchange for lessons\n1.2 Fletching online ESL Classes functionality.", // features for store app
+    "invert": true // when true it forces dark theme for game/app window, default is false.
+  }
+}
